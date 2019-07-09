@@ -1,5 +1,4 @@
-#!/bin/bash
-
+\
 # Creates a user record for the current Cloud9 user
 # Author: Matt Rudge
 
